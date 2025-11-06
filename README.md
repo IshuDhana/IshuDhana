@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="images/12eca-machine-learning.gif" alt="Machine Learning GIF" width="150" style="margin-right:10px;" />
-  <img src="images/JXA0.gif" alt="Machine Learning GIF" width="150" style="margin-right:10px;" />
-  <img src="images/0_PuscwCsUr09xZ0SJ.gif" alt="AI Engineer GIF" width="150" />
+  <img src="images/12eca-machine-learning.gif" alt="Machine Learning GIF" width="200" style="margin-right:10px;" />
+  <img src="images/JXA0.gif" alt="Machine Learning GIF" width="200" style="margin-right:10px;" />
+  <img src="images/0_PuscwCsUr09xZ0SJ.gif" alt="AI Engineer GIF" width="200" />
 </p>
 
   
