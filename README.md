@@ -35,11 +35,10 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="right">
-  <img src="YOUR_GIF_URL.gif" alt="AI Engineer Animation" width="400" />
-</p>
-<p align="right">
-  <img src="https://cdn.example.com/ai-engineer-animation.gif" alt="AI Engineer Animation" width="400" />
+<p align="center">
+  <img src="images/12eca-machine-learning.gif" alt="Machine Learning GIF" width="350" style="margin-right:10px;" />
+  <img src="images/robotics-engineer-working-on-ai-robot-animation-gif-download-4352366.webp" alt="Robotics AI GIF" width="300" style="margin-right:10px;" />
+  <img src="images/0_PuscwCsUr09xZ0SJ.gif" alt="AI Engineer GIF" width="350" />
 </p>
 
 
