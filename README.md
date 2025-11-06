@@ -37,54 +37,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="images/12eca-machine-learning.gif" alt="Machine Learning GIF" width="350" style="margin-right:10px;" />
-  <img src="images/robotics-engineer-working-on-ai-robot-animation-gif-download-4352366.webp" alt="Robotics AI GIF" width="300" style="margin-right:10px;" />
+  <img src="images/JXA0.gif" alt="Machine Learning GIF" width="300" style="margin-right:10px;" />
   <img src="images/0_PuscwCsUr09xZ0SJ.gif" alt="AI Engineer GIF" width="350" />
 </p>
 
+  
+<h3>📄 Know more about my experiences</h3> <p> 🎓 <b>AI Engineering, Ironhack, Germany</b> — Hands-on experience with <b>LLMs, RAG integration</b>, and <b>data pipeline automation</b><br> ☁️ Certified in <b>AWS Solutions Architect</b>, <b>Azure Fundamentals</b>, and <b>Google Generative AI</b> </p> </p> <h3>⚡ Tech Stack</h3> <ul> <li>💻 <b>Languages:</b> Python, JavaScript, SQL, Bash, PowerShell</li> <li>🧠 <b>AI Tools:</b> TensorFlow, PyTorch, Scikit-learn, OpenAI API</li> <li>☁️ <b>Cloud:</b> AWS, Azure, GCP (Vertex AI)</li> <li>⚙️ <b>DevOps:</b> Docker, Kubernetes, Terraform, GitHub Actions</li> <li>📊 <b>Visualization:</b> Power BI, Tableau, Grafana</li> </ul> <h3>🔭 I’m currently working on</h3> <ul> <li>🤖 Chatbot development using LLMs</li> <li>🧠 CNN-based image classification models</li> <li>🔧 LLM fine-tuning and model optimization</li> </ul> <h3>👯 I’m looking to collaborate on</h3> <ul> <li>🚀 AI/ML model development & Generative AI projects</li> <li>⚙️ RAG pipelines, cloud-based AI deployment, and MLOps automation</li> </ul>
 
-<h3>📄 Know more about my experiences</h3>
-<p>
-  🎓 <b>AI Engineering, Ironhack, Germany</b> — Hands-on experience with <b>LLMs, RAG integration</b>, and <b>data pipeline automation</b><br>
-  ☁️ Certified in <b>AWS Solutions Architect</b>, <b>Azure Fundamentals</b>, and <b>Google Generative AI</b>
-</p>
-
-
-<h3>⚡ Tech Stack</h3>
-<ul>
-  <li>💻 <b>Languages:</b> Python, JavaScript, SQL, Bash, PowerShell</li>
-  <li>🧠 <b>AI Tools:</b> TensorFlow, PyTorch, Scikit-learn, OpenAI API</li>
-  <li>☁️ <b>Cloud:</b> AWS, Azure, GCP (Vertex AI)</li>
-  <li>⚙️ <b>DevOps:</b> Docker, Kubernetes, Terraform, GitHub Actions</li>
-  <li>📊 <b>Visualization:</b> Power BI, Tableau, Grafana</li>
-</ul>
-
-
-<h3>🔭 I’m currently working on</h3>
-<ul>
-  <li>🤖 Chatbot development using LLMs</li>
-  <li>🧠 CNN-based image classification models</li>
-  <li>🔧 LLM fine-tuning and model optimization</li>
-</ul>
-
-<h3>👯 I’m looking to collaborate on</h3>
-<ul>
-  <li>🚀 AI/ML model development & Generative AI projects</li>
-  <li>⚙️ RAG pipelines, cloud-based AI deployment, and MLOps automation</li>
-</ul>
-
-<h3>🌱 I’m currently learning</h3>
-<ul>
-  <li>☁️ Advanced LLM integration</li>
-  <li>🧩 MLOps with AWS & Azure AI services</li>
-  <li>🧠 Data pipeline automation</li>
-</ul>
-
-<h3>💬 Ask me about</h3>
-<ul>
-  <li>Machine Learning & Deep Learning</li>
-  <li>LLM integration and model deployment</li>
-  <li>Terraform, CI/CD automation, and cloud architecture</li>
-</ul>
+<h3>🌱 I’m currently learning</h3> <ul> <li>☁️ Advanced LLM integration</li> <li>🧩 MLOps with AWS & Azure AI services</li> <li>🧠 Data pipeline automation</li> </ul> <h3>💬 Ask me about</h3> <ul> <li>Machine Learning & Deep Learning</li> <li>LLM integration and model deployment</li> <li>Terraform, CI/CD automation, and cloud architecture</li> </ul>
 
 
 <h3>👨‍💻 All of my projects are available at</h3>
