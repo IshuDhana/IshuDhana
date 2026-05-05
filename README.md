@@ -21,6 +21,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IshuDhana/IshuDhana/main/images/JXA0.gif" width="200" alt="AI animation" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 - 🎓 **AI Engineering** — Ironhack, Germany (LLMs, RAG, data pipeline automation)
